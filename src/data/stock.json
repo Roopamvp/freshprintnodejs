@@ -4,5 +4,11 @@
     "size": "L",
     "quantity": 50,
     "price": 25
+  },
+  {
+    "code": "A007",
+    "size": "M",
+    "quantity": 200,
+    "price": 200
   }
 ]

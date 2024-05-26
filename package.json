@@ -1,7 +1,6 @@
 {
   "name": "nodejs-rest-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,9 +18,10 @@
     "@types/node": "^20.12.12",
     "@types/supertest": "^6.0.2",
     "jasmine": "^5.1.0",
-    "nodemon": "^3.1.0",
+    "nodemon": "^3.1.1",
     "supertest": "^7.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
-  }
+  },
+  "description": ""
 }
